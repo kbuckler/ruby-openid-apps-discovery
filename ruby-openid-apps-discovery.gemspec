@@ -13,6 +13,7 @@ Gem::Specification.new do |s|
   s.homepage = 'http://code.google.com/p/ruby-openid-apps-discovery/'
 
   s.require_paths = %w[. lib]
-  s.authors = "kbuckler@gmail.com"
+  s.authors = ["http://code.google.com/p/ruby-openid-apps-discovery"]
+  s.email = "kbuckler@gmail.com"
 
 end
